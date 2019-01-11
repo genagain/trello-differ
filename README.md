@@ -2,6 +2,8 @@
 
 This software allows me to determine what I've done during the course of a day. Because the data will be stored in a database, I'll be able to review what I've done during the course of a week, month and year assuming that I have the requisite data. 
 
+This software was written Python 3.
+
 The following function invocation lists the cards I've archived in a given day.
 
 ```
